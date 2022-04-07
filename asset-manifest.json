@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rick-Morty-Watchlist/static/css/main.1ad99a8b.css",
+    "main.js": "/Rick-Morty-Watchlist/static/js/main.4ae40734.js",
+    "static/js/787.f30f17b4.chunk.js": "/Rick-Morty-Watchlist/static/js/787.f30f17b4.chunk.js",
+    "index.html": "/Rick-Morty-Watchlist/index.html",
+    "main.1ad99a8b.css.map": "/Rick-Morty-Watchlist/static/css/main.1ad99a8b.css.map",
+    "main.4ae40734.js.map": "/Rick-Morty-Watchlist/static/js/main.4ae40734.js.map",
+    "787.f30f17b4.chunk.js.map": "/Rick-Morty-Watchlist/static/js/787.f30f17b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ad99a8b.css",
+    "static/js/main.4ae40734.js"
+  ]
+}
